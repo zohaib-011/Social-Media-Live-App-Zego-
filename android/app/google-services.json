@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766668587809",
+    "project_id": "social-meddia-live-streaming",
+    "storage_bucket": "social-meddia-live-streaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766668587809:android:15aa04ce0087038286f460",
+        "android_client_info": {
+          "package_name": "com.example.social_media_zego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYX01M9iB-nOxBsa0gYieXCRuCsRLHR0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
